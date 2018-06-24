@@ -11,6 +11,10 @@ Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
 ## Overview
 
+Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
 ### What is Jekyll?
 
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
