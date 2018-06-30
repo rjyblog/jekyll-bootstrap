@@ -617,6 +617,10 @@ pre {
   margin-top: 0;
   margin-bottom: 0;
 }
+.unit-article .post-content ul,
+.unit-article .post-content ol {
+  margin-left: 1.2em;
+}
 .unit-article .entry-content h2,
 .unit-article .entry-content h3,
 .unit-article .entry-content h4,
