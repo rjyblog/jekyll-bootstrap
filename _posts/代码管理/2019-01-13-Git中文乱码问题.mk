@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Git 常用命令
+title:      Git 中文乱码问题
 subtitle:   
 description: ""
-date:       2018-07-25
+date:       2019-01-13
 author:     Jason
 header-img:
 catalog: true
